@@ -1,0 +1,12 @@
+step1 git init
+step2 python -m venv venv
+step3 source ./venv/Scripts/activate
+step4 加入且編輯 .flaskenv 和 .gitignore 
+step5 pip install python-dotenv
+step6 pip install flask
+step7 pip install flask-restful
+step8 新增且編輯 app.py
+
+
+
+
